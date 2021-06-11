@@ -14,6 +14,7 @@ Python script for checking the degree of profanity(racial slurs in this case) in
 3. Open up a terminal and run the following command to install required python libraries.
 
 ```python 
+pip3 install pandas
 pip3 install nltk
 
 python3 -m nltk.downloader stopwords
