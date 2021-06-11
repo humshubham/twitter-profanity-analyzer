@@ -3,7 +3,7 @@
 Python script for checking the degree of profanity(racial slurs in this case) in tweets.
 
 ### Disclaimer : "racial_slurs.txt" contains offensive words used for analyzing tweets.  
-    List created by words from ['here'](https://en.wikipedia.org/wiki/List_of_ethnic_slurs)
+   List created by words from [here](https://en.wikipedia.org/wiki/List_of_ethnic_slurs)
 
 ## Setup and Run
 
